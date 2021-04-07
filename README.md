@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IrenaJia
+- 👋 Hi, I’m @Lintokki
 - 👀 I’m interested in mechine learning
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
